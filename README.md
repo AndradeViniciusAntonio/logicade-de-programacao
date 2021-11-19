@@ -1,2 +1,2 @@
 # logica-de-programacao
-Exerci cios de Lógica de Programação
+Exercicios de Lógica de Programação
